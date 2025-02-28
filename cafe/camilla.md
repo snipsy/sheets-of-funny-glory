@@ -12,8 +12,10 @@
 
 #### **Abilities**
 
-- **Strength (STR):** 20 (+5)  
+- **Strength (STR):** 20 (+5)
+
   Who needs gym memberships when you’ve carried toddlers, groceries, and the world on your shoulders?
+
 - **Dexterity (DEX):** 14 (+2)  
   Graceful when dodging child-propelled projectiles. Less graceful when spinning into hyperfocus mode.
 - **Constitution (CON):** 22 (+6)  
